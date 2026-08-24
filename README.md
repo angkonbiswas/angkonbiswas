@@ -57,7 +57,7 @@ Webhook and API-based assistant that turns city queries into useful weather resp
 ### 🧹 Data Cleaning & Processing Automation
 Automates validation, normalization, and transformation of messy business data.
 
-👉 **[View project case studies →](PROJECTS.md)**
+
 
 ---
 
