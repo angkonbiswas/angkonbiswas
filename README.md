@@ -1,52 +1,76 @@
-## Hi there 👋
-# I'm Angkon Biswas 👋
+# Hi, I'm Angkon Biswas 👋
 
-### 🤖 Automation Engineer | AI Automation | AI Agents
+### AI Automation Engineer | AI Agents | Workflow Automation
 
-I build intelligent automation systems that connect **AI, APIs, workflows, and business processes** to reduce manual work and improve efficiency.
+I build practical **AI-powered automation systems** that connect AI, APIs, business tools, and workflows to reduce repetitive work and improve operational efficiency.
 
-### 🛠️ Tech Stack
-
-* **Automation:** n8n, Make.com
-* **AI:** OpenAI, AI Agents
-* **APIs:** REST API, Webhooks
-* **Data & Tools:** Google Sheets, Apify, MCP
-* **Development:** JavaScript, JSON
-
-### 🚀 What I Build
-
-* AI Automation Workflows
-* AI Agents
-* Lead Qualification & Scoring Systems
-* Customer Support Automation
-* Social Media Automation
-* Data Extraction & Processing
-* API & Webhook Integrations
-
-### 📌 Featured Projects
-
-Coming soon...
-
-### 📫 Connect With Me
-
-* LinkedIn: www.linkedin.com/in/angkon-biswas-b7a1432a9
-* GitHub: https://github.com/angkonbiswas
+My focus is on turning real business problems into reliable automation workflows and intelligent AI agents.
 
 ---
 
-⭐ Building practical AI automation systems one workflow at a time.
+## 🚀 What I Build
 
-<!--
-**angkonbiswas/angkonbiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 AI Agents & intelligent assistants
+- ⚙️ End-to-end workflow automation
+- 🎯 AI Lead Qualification & Scoring
+- 💬 AI Customer Support Automation
+- 📣 Social Media & Messaging Automation
+- 🔗 REST API & Webhook Integrations
+- 📊 Data Extraction, Cleaning & Processing
+- 🧩 MCP-based AI tool integrations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Automation**  
+n8n · Make.com
+
+**AI & LLMs**  
+OpenAI · AI Agents · Prompt Engineering
+
+**APIs & Integrations**  
+REST APIs · Webhooks · JSON · OAuth
+
+**Data & Tools**  
+Google Sheets · Apify · MCP
+
+**Development**  
+JavaScript · Git · GitHub
+
+---
+
+## 📌 Featured Projects
+
+### AI Lead Qualification & Scoring Engine
+AI-powered workflow that processes incoming leads, evaluates intent and quality, assigns qualification scores, and routes leads based on potential value.
+
+### AI Customer Support Automation
+Automation system that handles customer requests, uses AI to understand intent, generates context-aware responses, and reduces repetitive support work.
+
+### Social Media Automation
+API-driven automation workflows for handling comments, messages, events, and AI-assisted engagement across social platforms.
+
+### AI Weather Expert
+An AI-powered weather assistant that connects user queries with weather data through webhook and API integrations.
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready AI automation workflows
+- Developing reliable AI agents with tool and API integrations
+- Designing scalable workflow architectures
+- Improving error handling and automation reliability
+- Exploring MCP and agentic automation systems
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/angkon-biswas-b7a1432a9)
+- 🐙 [GitHub](https://github.com/angkonbiswas)
+
+---
+
+> **Building practical AI automation systems — one workflow at a time.** 🚀
