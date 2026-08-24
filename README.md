@@ -36,7 +36,7 @@ REST APIs · Webhooks · JSON · OAuth
 Google Sheets · Apify · MCP
 
 **Development**  
-JavaScript · Git · GitHub
+ GitHub
 
 ---
 
