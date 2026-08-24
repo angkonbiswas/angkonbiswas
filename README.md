@@ -38,7 +38,6 @@ Google Sheets · Apify · MCP
 **Development**  
  GitHub
 
----
 
 ## 📌 Selected Projects
 
