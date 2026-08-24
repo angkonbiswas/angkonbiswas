@@ -44,21 +44,12 @@ Google Sheets · Apify · MCP
 ### 🎯 AI Lead Qualification & Scoring Engine
 Automates lead processing, AI-based qualification, scoring, routing, and team notifications.
 
-### 💬 AI Customer Support Automation
-Uses AI, business rules, and workflow automation to handle repetitive customer-support requests.
 
-### 📣 Social Media Automation
+### 📣 Facebook Comment to DM AI Automation 
 Event-driven workflows that connect social-platform APIs, webhooks, and AI-assisted engagement.
 
-### 🌤️ AI Weather Expert
-Webhook and API-based assistant that turns city queries into useful weather responses.
-
-### 🧹 Data Cleaning & Processing Automation
-Automates validation, normalization, and transformation of messy business data.
 
 
-
----
 
 ## 🎯 Current Focus
 
