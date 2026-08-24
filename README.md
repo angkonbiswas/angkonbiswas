@@ -39,16 +39,6 @@ Google Sheets · Apify · MCP
  GitHub
 
 
-## 📌 Selected Projects
-
-### 🎯 AI Lead Qualification & Scoring Engine
-Automates lead processing, AI-based qualification, scoring, routing, and team notifications.
-
-
-### 📣 Facebook Comment to DM AI Automation 
-Event-driven workflows that connect social-platform APIs, webhooks, and AI-assisted engagement.
-
-
 
 
 ## 🎯 Current Focus
