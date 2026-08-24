@@ -40,25 +40,30 @@ JavaScript · Git · GitHub
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-### AI Lead Qualification & Scoring Engine
-AI-powered workflow that processes incoming leads, evaluates intent and quality, assigns qualification scores, and routes leads based on potential value.
+### 🎯 AI Lead Qualification & Scoring Engine
+Automates lead processing, AI-based qualification, scoring, routing, and team notifications.
 
-### AI Customer Support Automation
-Automation system that handles customer requests, uses AI to understand intent, generates context-aware responses, and reduces repetitive support work.
+### 💬 AI Customer Support Automation
+Uses AI, business rules, and workflow automation to handle repetitive customer-support requests.
 
-### Social Media Automation
-API-driven automation workflows for handling comments, messages, events, and AI-assisted engagement across social platforms.
+### 📣 Social Media Automation
+Event-driven workflows that connect social-platform APIs, webhooks, and AI-assisted engagement.
 
-### AI Weather Expert
-An AI-powered weather assistant that connects user queries with weather data through webhook and API integrations.
+### 🌤️ AI Weather Expert
+Webhook and API-based assistant that turns city queries into useful weather responses.
+
+### 🧹 Data Cleaning & Processing Automation
+Automates validation, normalization, and transformation of messy business data.
+
+👉 **[View project case studies →](PROJECTS.md)**
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production-ready AI automation workflows
+- Building production-oriented AI automation workflows
 - Developing reliable AI agents with tool and API integrations
 - Designing scalable workflow architectures
 - Improving error handling and automation reliability
